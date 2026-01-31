@@ -1,6 +1,8 @@
 # 👋 Salut, je suis Octave BAHOUN
 
-🎓 Étudiant en Génie Électrique & Informatique à l'INSTI | Passionné de développement fullstack et IA  
+🎓 Étudiant en Génie Électrique & Informatique à l'INSTI | Passionné de développement fullstack et IA
+
+![Profile Views](https://komarev.com/ghpvc/?username=octavebahoun&color=blue&style=flat-square)  
 
 🚀 Je suis en train de construire des projets autour de :
 - 💻 **Développement Web & Mobile** : Node.js, React/Next.js, Flutter, PHP, Laravel
@@ -19,7 +21,7 @@
 
 ### 🌱 En ce moment, j'apprends
 - Approfondir ROS2 et la robotique autonome  
-- Marchine Learning et Deeplearning
+- Machine Learning et Deep Learning
 - Fullstack avancé avec intégration IA  
 
 ---
@@ -35,3 +37,10 @@
 - Metal & danse quand je suis seul 💃  
 - Toujours en train de bricoler un projet tech ou IA 🔧
 
+---
+
+### 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octavebahoun&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octavebahoun&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
